@@ -1,3 +1,5 @@
+It's a completely fake extension... it's entirely in Chinese, but even if you could somehow translate the interface, it would never see, capture, or work with your X account. Why did you waste my time, 20 minutes for nothing! Damn it.
+
 # Privacy Policy — X Follow to List
 
 Effective date: July 19, 2026  
